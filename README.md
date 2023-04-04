@@ -109,11 +109,11 @@ print("Size of X_test: ",len(X_test))
 
 ![image](https://user-images.githubusercontent.com/94828147/229674379-82bbf5d3-fd95-4649-9c32-95a42af7120e.png)
 
-## SIZE OF XTRAIN:
+## SIZE OF X_TRAIN:
 
 ![image](https://user-images.githubusercontent.com/94828147/229674494-0a870489-737d-418a-8c2e-6a17fdb0f2ae.png)
 
-## SIZE OF YTRAIN:
+## SIZE OF Y_TRAIN:
 
 ![image](https://user-images.githubusercontent.com/94828147/229674722-3bbbd97e-bb91-4d9c-ab6a-360848cc2324.png)
 
